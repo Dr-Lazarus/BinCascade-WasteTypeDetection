@@ -258,3 +258,4 @@ dmypy.json
 cython_debug/
 
 cfn
+src/scripts/build
